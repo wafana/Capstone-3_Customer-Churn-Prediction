@@ -10,6 +10,7 @@ scikit-learn
 xgboost
 imbalanced-learn
 imblearn
+sklearn
 
 # Feature Selection
 shap
