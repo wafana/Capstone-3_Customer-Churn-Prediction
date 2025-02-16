@@ -1,18 +1,10 @@
-# Core Libraries
-pandas
-numpy
-scipy
-seaborn
-matplotlib
-
-# Machine Learning & Preprocessing
-scikit-learn
-xgboost
-imbalanced-learn
-
-# Feature Selection
-shap
-
-# Streamlit for Deployment
-streamlit
-
+pandas==1.5.3
+numpy==1.23.5
+seaborn==0.11.2
+matplotlib==3.6.2
+scipy==1.9.3
+scikit-learn==1.0.2
+imblearn==0.10.1
+xgboost==1.7.5
+shap==0.40.0
+streamlit==1.19.0
