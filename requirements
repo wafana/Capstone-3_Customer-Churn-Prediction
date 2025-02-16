@@ -1,0 +1,19 @@
+# Core Libraries
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+
+# Machine Learning & Preprocessing
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Feature Selection
+shap
+
+# Streamlit for Deployment
+streamlit
+joblib
+
