@@ -8,3 +8,4 @@ imblearn==0.10.1
 xgboost==1.7.5
 shap==0.40.0
 streamlit==1.19.0
+imbalanced-learn
